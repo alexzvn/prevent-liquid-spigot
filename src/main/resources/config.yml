@@ -1,0 +1,12 @@
+
+distance:
+
+  # max distance for water set -1 to unlimited
+  water: -1
+
+  # max distance for lava set -1 to unlimited
+  lava: 5
+
+allowed_world:
+  - world_1
+  - world_2
